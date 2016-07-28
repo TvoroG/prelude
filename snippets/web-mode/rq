@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : rq
+# --
+var ${1:lib} = require('$2');

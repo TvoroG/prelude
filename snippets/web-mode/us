@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : us
+# --
+'use strict';

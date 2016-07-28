@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+#name : cc
+# --
+var ${1:Comp} = React.createClass({
+    propTypes: {
+    },
+
+    render: function() {
+        return (
+            $0
+        );
+    }
+});
